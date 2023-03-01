@@ -1,1 +1,1 @@
-# dataStructurePractices
+# dataStructurePractices,这是一个自我练习数据结构与算法的相关记录.希望能够通过自己的学习把数据结构和算法学好,转码成功!!!
